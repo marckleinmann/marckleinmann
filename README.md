@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marckleinmann
-- 🌎 I'm Building Virtual Worlds 🌎
+- 🌎 I Design & Build Virtual Worlds 🌎
 - ⚡ With Unreal Engine 5 & AI Tools⚡
 - 🚀 crea8or.STUDIO 🚀
 - 📫 Reach me at marc@3c8n.com
