@@ -2,7 +2,7 @@
 - 🌎 I Design & Build Virtual Worlds 🌎
 - ⚡ With Unreal Engine 5 & AI Tools⚡
 - 🚀 crea8or.STUDIO 🚀
-- 📫 Reach me at marc@3c8n.com
+- 📫 Reach me at marc@cre8or.STUDIO
 - 🔗 https://marckleinmann.com
 - 🔗 https://linkedin.com/in/marckleinmann
 <!---
