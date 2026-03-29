@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @marckleinmann
 - 🌎 I Build Products Customers Love 🌎
-- ⚡ With Unreal Engine 5 & AI Tools⚡
-- 🚀 crea8or.STUDIO 🚀
-- 📫 Reach me at marc@cre8or.STUDIO
+- ⚡ AI-Native Workflows, Automations & Apps ⚡
+- 🚀 Praxis 🚀
+- 📫 Reach me at marc@praxisX.co
 - 🔗 https://marckleinmann.com
 - 🔗 https://linkedin.com/in/marckleinmann
 <!---
